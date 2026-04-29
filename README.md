@@ -29,37 +29,14 @@ Target timeline: **5–6 months** to job-ready.
 
 | Phase | Focus | Status |
 |-------|-------|--------|
-| 1 | Blockchain Basics — Cyfrin Updraft | 🔄 In progress |
-| 2 | Solidity Fundamentals | ⏳ Upcoming |
-| 3 | Foundry Fundamentals — testing & deployment | ⏳ Upcoming |
+| 1 | Blockchain Basics — Cyfrin Updraft |  Done |
+| 2 | Solidity Fundamentals | Done |
+| 3 | Foundry Fundamentals — testing & deployment | In Progress |
 | 4 | Full-Stack Web3 — contracts + Next.js | ⏳ Upcoming |
 | 5 | Portfolio projects (ERC-20, DEX, DeFi protocol) | ⏳ Upcoming |
 | 6 | Smart Contract Security & Auditing | ⏳ Upcoming |
 
 Primary learning platform: [Cyfrin Updraft](https://updraft.cyfrin.io)
-
----
-
-## 📁 Repository Structure
-
-```
-blockchain-journey/
-├── basics/              # Blockchain fundamentals exercises
-├── solidity/            # Solidity contracts by topic
-│   ├── fundamentals/
-│   ├── erc20/
-│   ├── erc721/
-│   └── defi/
-├── foundry-projects/    # Projects built with Foundry
-│   ├── simple-storage/
-│   ├── fund-me/
-│   └── lottery/
-├── portfolio/           # Production-quality projects
-│   ├── token/           # ERC-20 token with full test suite
-│   ├── dex/             # Simple DEX (Uniswap V2 mechanics)
-│   └── lending/         # DeFi lending protocol (fintech-inspired)
-└── notes/               # Key concepts and learnings
-```
 
 ---
 
